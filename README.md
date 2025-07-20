@@ -1,61 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Mark Jerry | E‑commerce & Web Dev Portfolio</title>
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 1rem; line-height: 1.6; }
-    h1, h2 { text-align: center; }
-    section { margin-bottom: 2rem; }
-    .contact a { margin-right: 1rem; }
-  </style>
-</head>
-<body>
-  <h1>Mark Jerry</h1>
-  <p><em>Website Developer & E‑commerce Growth Expert</em></p>
+# Mark Jerry - E-commerce & Web Developer 🚀
 
-  <section>
-    <h2>About Me</h2>
-    <p>I’m a professional developer specializing in Shopify, WordPress, and WooCommerce…</p>
-  </section>
+Hi, I'm **Mark Jerry**, a results-driven website developer and e-commerce strategist. I help brands and store owners turn clicks into conversions through beautiful websites, optimized product listings, and sales-focused strategies.
 
-  <section>
-    <h2>Services</h2>
-    <ul>
-      <li>Website Development (Shopify • WordPress • WooCommerce)</li>
-      <li>Conversion Rate Optimization (CRO)</li>
-      <li>Store Audits & Product Listings</li>
-      <li>Sales Funnel Setup & Mobile UX</li>
-    </ul>
-  </section>
+🔧 **What I Do**
+- ✅ Full Website Development (WordPress / Shopify / Custom)
+- ✅ E-commerce Store Setup & Redesign
+- ✅ CRO & Store Audits (Conversion Rate Optimization)
+- ✅ Product Research & Listing Optimization
+- ✅ Performance Boosting SEO & Speed Improvements
 
-  <section>
-    <h2>Past Work & Case Studies</h2>
-    <p><strong>Confidential Client (Shopify):</strong> $10,408 in one-day sales, 7.41% conversion rate…</p>
-    <p><strong>Glow Naturals:</strong> Built full Shopify store – achieved 32% conversion lift</p>
-    <!-- More case studies -->
-  </section>
+📂 **Past Projects**
+- [ZenAnime Market](https://zenanimemarket.com) – Cosplay and anime merchandise store
+- [The Inner Anime](https://theinneranime.com) – Anime-focused e-commerce brand
+- [Store 3] – *(Please provide name/link)*
 
-  <section>
-    <h2>Testimonials</h2>
-    <blockquote>“Mark helped increase our sales within 3 weeks after his audit…”</blockquote>
-    <blockquote>“Very fast and professional…”</blockquote>
-  </section>
+📫 **Let's Connect**
+- 📧 Email: [marksagency517@gmail.com](mailto:marksagency517@gmail.com)
+- 📞 WhatsApp: +234 915 150 4115
+- 📸 Instagram: [@markjerry.dev](https://instagram.com/markjerry.dev)
 
-  <section>
-    <h2>Why Work With Me</h2>
-    <p>Proven strategies, mobile-first design, fast communication, and flexible pricing…</p>
-  </section>
-
-  <section class="contact">
-    <h2>Contact</h2>
-    <a href="https://wa.me/2349151504115">WhatsApp</a>
-    <a href="mailto:marksagency517@gmail.com">Email</a>
-    <a href="https://instagram.com/markjerry.dev">Instagram</a>
-  </section>
-
-  <section>
-    <p><strong>Free Offer:</strong> Free mini store audit — send your link for 3 actionable fixes.</p>
-  </section>
-</body>
-</html>
+Let’s build, fix, and grow your online business—**together**. 💼
